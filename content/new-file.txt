@@ -1,0 +1,1 @@
+Here is the write result: First text file and Second text file.
